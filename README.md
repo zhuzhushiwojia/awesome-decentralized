@@ -83,7 +83,7 @@
 * [Radicle](https://radicle.xyz/) is an open source, peer-to-peer code collaboration stack built on Git. Unlike centralized code hosting platforms, there is no single entity controlling the network. Repositories are replicated across peers in a decentralized manner, and users are in full control of their data and workflow.
 * [reep.io ☠️](https://reep.io): Transfer files directly to another browser, your peer will be able to download the file directly from you.
 * [Retroshare](https://retroshare.cc): Encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
-* [Ricochet](https://ricochet.im/): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
+* [Ricochet](https://github.com/blueprint-freespeech/ricochet-refresh): Different approach to instant messaging that doesn’t trust anyone in protecting your privacy. It uses the Tor network.
 * [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 * [SecuShare](https://secushare.org): A research project. Consider that it basically consists of a new Internet stack combined with a full-fledged distributed scalability alternative to cloud technology. Source code: https://gnunet.org/git/gnunet.git
 * [Session](https://getsession.org): Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
