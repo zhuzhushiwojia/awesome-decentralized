@@ -140,3 +140,11 @@ communities with auditable moderation and mod elections.
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
 To the extent possible under law, the author of this page has waived all copyright and related or neighboring rights to this work.
+
+---
+
+### Part of the Elyan Labs Ecosystem
+
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+- [GitHub](https://github.com/Scottcjn)
